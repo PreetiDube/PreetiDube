@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:443025,50:7F5836,100:AA7F66&text=PREETI%20DUBE&fontColor=F2CFDA&fontSize=48&fontAlignY=38&desc=AI%20%7C%20DATA%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:443025,50:7F5836,100:AA7F66&text=PREETI%20DUBE&fontColor=F2CFDA&fontSize=48&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20DATA%20ENGINEER%20%7C%20CLOUD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EC9C9D&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+%7C+Data+Engineer;Building+Scalable+Data+%26+Intelligent+Systems;Azure+%7C+Databricks+%7C+PySpark+%7C+Python+%7C+SQL;Transforming+Data+into+Intelligent+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EC9C9D&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+%7C+Data+Engineer;Building+Scalable+Data+%26+Intelligent+Systems;Python%20%E2%80%A2%20SQL%20%E2%80%A2%20PySpark%20%E2%80%A2%20Azure%20%E2%80%A2%20Databricks%20%E2%80%A2%20Machine%20Learning;Transforming+Data+into+Intelligent+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
