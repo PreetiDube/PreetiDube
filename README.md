@@ -375,14 +375,6 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PreetiDube&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
