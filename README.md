@@ -375,14 +375,6 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
 
 ---
 
-# Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreetiDube&bg_color=443025&color=F2CFDA&line=EC9C9D&point=AA7F66&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</p>
-
----
-
 # Contribution Snake
 
 <p align="center">
