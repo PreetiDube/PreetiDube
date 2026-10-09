@@ -74,7 +74,7 @@ My approach combines **engineering discipline, analytical thinking and product-o
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="50" alt="Python, Java, C and C++" />
-  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/sql.png" height="50" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/sql.png" height="50" alt="SQL" />
 </p>
 
 
