@@ -84,11 +84,13 @@ My approach combines **engineering discipline, analytical thinking and product-o
   <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
 </p>
 
+### APIs & Data Formats
+
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-443025?style=flat-square&logo=fastapi&logoColor=EC9C9D"/>
-  <img src="https://img.shields.io/badge/JSON-7F5836?style=flat-square&logo=json&logoColor=F2CFDA"/>
-  <img src="https://img.shields.io/badge/CSV-AA7F66?style=flat-square&logo=files&logoColor=FFF5F2"/>
-  <img src="https://img.shields.io/badge/Parquet-443025?style=flat-square&logo=apacheparquet&logoColor=F2CFDA"/>
+  <img src="https://img.shields.io/badge/REST_API-443025?style=for-the-badge&logo=fastapi&logoColor=EC9C9D" height="50" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-7F5836?style=for-the-badge&logo=json&logoColor=F2CFDA" height="50" alt="JSON" />
+  <img src="https://img.shields.io/badge/CSV-AA7F66?style=for-the-badge&logo=files&logoColor=FFF5F2" height="50" alt="CSV" />
+  <img src="https://img.shields.io/badge/Parquet-443025?style=for-the-badge&logo=apacheparquet&logoColor=EC9C9D" height="50" alt="Parquet" />
 </p>
 
 ### Data Engineering, Cloud & Tooling
