@@ -78,12 +78,6 @@ My approach combines **engineering discipline, analytical thinking and product-o
 </p>
 
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
 ### Backend & Databases
 
 <p>
