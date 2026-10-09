@@ -71,13 +71,12 @@ My approach combines **engineering discipline, analytical thinking and product-o
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-443025?style=flat-square&logo=postgresql&logoColor=EC9C9D"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="50" alt="Python, Java, C and C++" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/sql.png" height="50" alt="SQL" />
 </p>
+
 
 ### Frontend
 
