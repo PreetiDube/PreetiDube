@@ -126,20 +126,86 @@ My approach combines **engineering discipline, analytical thinking and product-o
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning | Advanced | Classification, preprocessing, feature engineering and model evaluation |
-| Recommendation Systems | Advanced | Content-based recommendation using KNN |
-| Python for AI/ML | Advanced | Data processing and machine-learning workflows |
-| Scikit-learn | Advanced | Classification and recommendation model development |
-| Data Preprocessing | Advanced | Cleaning, transformation and feature preparation |
-| Feature Engineering | Intermediate | Feature preparation for machine-learning workflows |
-| Model Evaluation | Advanced | Evaluation using standard ML metrics |
-| PySpark | Advanced | Distributed data transformation and processing |
-| Azure Data Engineering | Advanced | Azure Data Factory, Databricks and ETL workflows |
-| Lakehouse Architecture | Advanced | Bronze / Silver / Gold architecture using Delta Lake |
-| Data Analytics | Advanced | SQL-based analysis and analytical workflows |
-| Data Visualization | Intermediate | Power BI and business-oriented visualization |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Proficiency</th>
+      <th>Details / Practical Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="3" align="left">✦ MACHINE LEARNING &amp; AI</th>
+    </tr>
+    <tr>
+      <td>Machine Learning</td>
+      <td>Intermediate</td>
+      <td>Classification, preprocessing, feature engineering and model evaluation</td>
+    </tr>
+    <tr>
+      <td>Recommendation Systems</td>
+      <td>Hands-on</td>
+      <td>Content-based filtering using KNN and similarity-based recommendations</td>
+    </tr>
+    <tr>
+      <td>Python for AI/ML</td>
+      <td>Intermediate</td>
+      <td>Data processing and machine-learning workflows using Python</td>
+    </tr>
+    <tr>
+      <td>Scikit-learn</td>
+      <td>Hands-on</td>
+      <td>Model development, training and evaluation</td>
+    </tr>
+    <tr>
+      <td>Data Preprocessing</td>
+      <td>Intermediate</td>
+      <td>Data cleaning, transformation and feature preparation</td>
+    </tr>
+    <tr>
+      <td>Feature Engineering</td>
+      <td>Intermediate</td>
+      <td>Preparing features for machine-learning models</td>
+    </tr>
+    <tr>
+      <td>Model Evaluation</td>
+      <td>Intermediate</td>
+      <td>Classification metrics, precision, recall and F1-score</td>
+    </tr>
+    <tr>
+      <th colspan="3" align="left">✦ DATA ENGINEERING &amp; CLOUD</th>
+    </tr>
+    <tr>
+      <td>PySpark</td>
+      <td>Hands-on</td>
+      <td>Distributed data transformations and DataFrame operations</td>
+    </tr>
+    <tr>
+      <td>Azure Data Engineering</td>
+      <td>Hands-on</td>
+      <td>Azure Data Factory pipelines, Databricks and ETL workflows</td>
+    </tr>
+    <tr>
+      <td>Lakehouse Architecture</td>
+      <td>Hands-on</td>
+      <td>Bronze, Silver and Gold layers using Delta Lake</td>
+    </tr>
+    <tr>
+      <th colspan="3" align="left">✦ ANALYTICS &amp; VISUALIZATION</th>
+    </tr>
+    <tr>
+      <td>SQL &amp; Data Analytics</td>
+      <td>Intermediate</td>
+      <td>SQL queries, joins, aggregations and analytical workflows</td>
+    </tr>
+    <tr>
+      <td>Data Visualization</td>
+      <td>Hands-on</td>
+      <td>Power BI dashboards and business-oriented visualization</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
