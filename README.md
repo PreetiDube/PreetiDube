@@ -87,25 +87,26 @@ My approach combines **engineering discipline, analytical thinking and product-o
 ### APIs & Data Formats
 
  <p align="left">
-  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/restapi.png" width="50" height="50" alt="REST API" />
-  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/json.png" width="50" height="50" alt="JSON" />
-  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/csv.png" width="50" height="50" alt="CSV" />
-  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/parquet.png" width="50" height="50" alt="Apache Parquet" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/restapi.png" height="50" alt="REST API" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/json.png"  height="50" alt="JSON" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/csv.png"  height="50" alt="CSV" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/parquet.png" height="50" alt="Apache Parquet" />
 </p>
 
 ### Data Engineering, Cloud & Tooling
 
 <p>
   <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
+  
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-443025?style=flat-square&logo=microsoftazure&logoColor=EC9C9D"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-7F5836?style=flat-square&logo=databricks&logoColor=F2CFDA"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-AA7F66?style=flat-square&logo=delta&logoColor=443025"/>
-  <img src="https://img.shields.io/badge/PySpark-443025?style=flat-square&logo=apachespark&logoColor=EC9C9D"/>
-  <img src="https://img.shields.io/badge/Power%20BI-7F5836?style=flat-square&logo=powerbi&logoColor=F2CFDA"/>
-  <img src="https://img.shields.io/badge/Excel-AA7F66?style=flat-square&logo=microsoftexcel&logoColor=443025"/>
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/adf.png" height="50" alt="Azure Data Factory" />
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/databricks.png" height="50" alt="Azure Databricks" />
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/deltalake.svg" height="50" alt="Delta Lake" />
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/ApacheSpark.png" height="50" alt="Apache Spark" />
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/powerbi.png" height="50" alt="Power BI" />
+<img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/excel.png" height="50" alt="Excel" />
 </p>
 
 ### AI / ML
@@ -116,8 +117,9 @@ My approach combines **engineering discipline, analytical thinking and product-o
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-443025?style=flat-square&logo=scikitlearn&logoColor=EC9C9D"/>
-  <img src="https://img.shields.io/badge/Pandas-7F5836?style=flat-square&logo=pandas&logoColor=F2CFDA"/>
-  <img src="https://img.shields.io/badge/NumPy-AA7F66?style=flat-square&logo=numpy&logoColor=443025"/>
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/pandas.png" height="50" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/numpy.png" height="50" alt="NumPy" />
+</p>
 </p>
 
 ---
