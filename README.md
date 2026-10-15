@@ -116,7 +116,7 @@ My approach combines **engineering discipline, analytical thinking and product-o
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-443025?style=flat-square&logo=scikitlearn&logoColor=EC9C9D"/>
+   <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/Scikit-learn.png" height="50" alt="Scikit-Learn" />
   <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/pandas.png" height="50" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/numpy.png" height="50" alt="NumPy" />
 </p>
