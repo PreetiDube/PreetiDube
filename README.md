@@ -86,11 +86,11 @@ My approach combines **engineering discipline, analytical thinking and product-o
 
 ### APIs & Data Formats
 
-<p>
-  <img src="https://img.shields.io/badge/REST_API-443025?style=for-the-badge&logo=fastapi&logoColor=EC9C9D" height="50" alt="REST API" />
-  <img src="https://img.shields.io/badge/JSON-7F5836?style=for-the-badge&logo=json&logoColor=F2CFDA" height="50" alt="JSON" />
-  <img src="https://img.shields.io/badge/CSV-AA7F66?style=for-the-badge&logo=files&logoColor=FFF5F2" height="50" alt="CSV" />
-  <img src="https://img.shields.io/badge/Parquet-443025?style=for-the-badge&logo=apacheparquet&logoColor=EC9C9D" height="50" alt="Parquet" />
+ <p align="left">
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/restapi.png" width="50" height="50" alt="REST API" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/json.png" width="50" height="50" alt="JSON" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/csv.png" width="50" height="50" alt="CSV" />
+  <img src="https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/parquet.png" width="50" height="50" alt="Apache Parquet" />
 </p>
 
 ### Data Engineering, Cloud & Tooling
