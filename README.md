@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:443025,50:7F5836,100:AA7F66&text=PREETI%20DUBE&fontColor=F2CFDA&fontSize=48&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20DATA%20ENGINEER%20%7C%20CLOUD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
