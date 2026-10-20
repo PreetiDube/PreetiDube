@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PreetiDube">
+  <a href="https://preetidube.github.io/Preeti_Dube_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-EC9C9D?style=for-the-badge&logo=vercel&logoColor=443025"/>
   </a>
   <a href="https://www.linkedin.com/in/preetidube02">
