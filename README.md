@@ -395,6 +395,7 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
 </p>
 
 - Excel Skills Virtual Experience — JPMorgan Chase & Co. · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/JPM-Excel.pdf)
+
 ---
 
 # Coding Profiles
