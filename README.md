@@ -378,7 +378,7 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
   <img src="https://img.shields.io/badge/TATA-Data%20Visualization-7F5836?style=for-the-badge&logo=tata&logoColor=F2CFDA"/>
 </p>
 
-- Data Visualization: Empowering Business with Effective Insights — TATA · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/tata-data-visualization.pdf)
+- Data Visualization: Empowering Business with Effective Insights — TATA · [View Certificate ↗](https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/tata-data-visualization.pdf)
 
 ### Scaler
 
@@ -386,7 +386,7 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
   <img src="https://img.shields.io/badge/Scaler-Python%20Programming-EC9C9D?style=for-the-badge&logo=python&logoColor=443025"/>
 </p>
 
-- Python Programming Course — Scaler · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/Python%20by%20Scaler.png)
+- Python Programming Course — Scaler · [View Certificate ↗](https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/Python%20by%20Scaler.png)
 
 ### JPMorgan Chase & Co.
 
@@ -394,7 +394,7 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
   <img src="https://img.shields.io/badge/JPMorgan%20Chase-Excel%20Skills-443025?style=for-the-badge&logo=microsoft-excel&logoColor=EC9C9D"/>
 </p>
 
-- Excel Skills Virtual Experience — JPMorgan Chase & Co. · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/JPM-Excel.pdf)
+- Excel Skills Virtual Experience — JPMorgan Chase & Co. · [View Certificate ↗](https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/JPM-Excel.pdf)
 
 ---
 
