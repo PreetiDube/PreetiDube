@@ -372,13 +372,6 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
 - Artificial Intelligence Fundamentals — IBM
 - Building AI Solutions using Advanced Algorithms and Open-Source Frameworks — IBM
 
-### Accenture
-
-<p>
-  <img src="https://img.shields.io/badge/Accenture-Data%20Analytics%20%26%20Visualization-AA7F66?style=for-the-badge&logo=accenture&logoColor=443025"/>
-</p>
-
-- Data Analytics & Visualization Job Simulation — Accenture
 
 ### TATA
 
