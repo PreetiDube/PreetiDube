@@ -369,8 +369,8 @@ Worked on practical machine-learning workflows using Python and Scikit-learn, in
   <img src="https://img.shields.io/badge/IBM-Building%20AI%20Solutions-7F5836?style=for-the-badge&logo=ibm&logoColor=F2CFDA"/>
 </p>
 
-- Artificial Intelligence Fundamentals — IBM · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/ibm-ai-fundamentals.jpg)
-- Building AI Solutions using Advanced Algorithms and Open-Source Frameworks — IBM · [View Certificate ↗](https://github.com/PreetiDube/PreetiDube/blob/main/assets/ibm-ai-solutions.jpg)
+- Artificial Intelligence Fundamentals — IBM · [View Certificate ↗](https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/ibm-ai-fundamentals.jpg)
+- Building AI Solutions using Advanced Algorithms and Open-Source Frameworks — IBM · [View Certificate ↗](https://raw.githubusercontent.com/PreetiDube/PreetiDube/main/assets/ibm-ai-solutions.jpg)
 
 ### TATA
 
